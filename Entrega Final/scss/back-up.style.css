@@ -1,0 +1,12 @@
+.navbar-brand img{
+
+    height: 150px;
+    
+    }
+    
+    @media screen and (max-width: 600px) {
+        .formulario {
+            width: 100% !important;
+        }
+    }
+    
